@@ -10,14 +10,13 @@ You will learn:
  * Structuring your program: no spaghetti code.
  * Testing: are you really sure there are no bugs?
  * Version control: this worked yesterday!
- * Communicating with hardware.
  * Data storage and processing: how to not get lost.
  * Next steps: publishing your code, using supercomputers, and more.
 
 We will focus on hands-on exercises where you will immedately apply the new skills.
 
 It is impossible to master these topics within a week, but you will know how to
-improve and where to look for further development.  The course is suitable for 
+improve and where to look for further development.  The course is suitable for
 people with little prior knowledge as well as for those familiar with some of
 the course topics.
 
